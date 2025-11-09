@@ -1,5 +1,5 @@
 # AI Interaction Overview  
-During the development of Optimind, we used several AI tools to help us consolidate the idea and thus build a landing page.  
+During the development of OPTMIND, we used several AI tools to help us consolidate the idea and thus build a landing page.  
 Here are the AI tools we used and their roles:  
 * GPT-5: Brainstorming<br/>
 * Copilot: Code generation<br/>
@@ -31,7 +31,7 @@ Prompts:
   Prompts:
     >Generate a code that can written in HTML. Design a card matching game displayed in 3*3. Randomly light up several number of cards as colour #F28C38 and count down 5 seconds for memorising. After 5 seconds, discolourize all cards and as user to select the cars pattern just shown.<br/>
     
-    The response give a suggestion on coding for us to modify, make further advancements and use in our landing page in a convenient way
+    The response give a suggestion on coding for us to modify, make further advancements and use in our landing page in a convenient way.
 
 # Project Evolution
 
